@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="PlayWright_Automation_VSCode">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test2_trace.zip!/" />
+      <root url="jar://$PROJECT_DIR$/test1_trace.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
